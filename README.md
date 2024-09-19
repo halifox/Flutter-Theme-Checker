@@ -9,6 +9,9 @@ This tool is designed to display various color roles, helping developers check i
 
 ![](./doc/simple.png)
 
+## Learn more about Color Roles
+For more information on what Color Roles are and how they are used in Material Design, visit the [Material Design Color Roles Guide](https://m3.material.io/styles/color/roles).
+
 ## License
 
 This project is licensed under the MIT License.
